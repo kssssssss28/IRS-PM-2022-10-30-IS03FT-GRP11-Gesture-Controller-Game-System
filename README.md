@@ -3,7 +3,7 @@
 ## Gesture Controller Game System -- Play game without your keyboard!
 
 Business video:\
-https://www.youtube.com/watch?v=3y25ibzwLP4
+https://youtu.be/c7dn-Ls5U6c
 
 ---
 
@@ -79,13 +79,13 @@ of game advertising has excellent value.
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 [technique video for system architecture](https://drive.google.com/file/d/1InixDkM9xW4d1PuJ9FrLy1z6tUhUiNqm/view?usp=sharing)
 
-[demo case]()
+[demo case](https://youtu.be/c7dn-Ls5U6c)
 
 ---
 
 ## SECTION 5 : USER GUIDE
 
-Please refer to [user guide](https://github.com/SCNUJackyChen/IRS-PM-2021-07-05-IS03FT-GRP8-SnapYummy/blob/main/ProjectReport/SnapYummy%2C%20Intelligent%20Cooking%20Assistant%20-%20User%20Guide.pdf)
+Please refer to [user guide](https://github.com/kssssssss28/IRS-PM-2022-10-30-IS03FT-GRP11-Gesture-Controller-Game-System/blob/master/UserGuide%20/User%20Guide.pdf)
 
 ---
 
