@@ -77,7 +77,7 @@ of game advertising has excellent value.
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[technique video for system architecture](https://drive.google.com/file/d/1InixDkM9xW4d1PuJ9FrLy1z6tUhUiNqm/view?usp=sharing)
+[technique video for system architecture](https://drive.google.com/file/d/12aZwHx7WO3TZG2swp-LZuJtTL0AOqFFA/view?usp=sharing)
 
 [demo case](https://youtu.be/c7dn-Ls5U6c)
 
@@ -91,4 +91,4 @@ Please refer to [user guide](https://github.com/kssssssss28/IRS-PM-2022-10-30-IS
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-Refer to project report at Github Folder: [ProjectReport](https://github.com/SCNUJackyChen/IRS-PM-2021-07-05-IS03FT-GRP8-SnapYummy/tree/main/ProjectReport)
+Refer to project report at Github Folder: [ProjectReport](https://github.com/kssssssss28/IRS-PM-2022-10-30-IS03FT-GRP11-Gesture-Controller-Game-System/blob/master/ProjectReport/NUS_ISS_Intelligent_System_Group_11_IRS_project.pdf)
