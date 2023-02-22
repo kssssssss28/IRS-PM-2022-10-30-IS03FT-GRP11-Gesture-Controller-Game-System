@@ -72,7 +72,7 @@ of game advertising has excellent value.
 | Luo Tianchen         |           A0261747X           | Collected 10k+ hands features from self-recording video, responsible for feature pre-processing, trained gestures classification model to control the gluttonous snake game and  responsible for GUI implement and combining model inference results with GUI and games| e0983141@u.nus.edu    |
 | Kuang Shan         |           A0261839U           | Implemented Survival game and combined hand gesture controller with the game,  responsible for system design, code structure construction, camera invoking and responsible for backend and Graphic User Interface implement| lipeifeng98@u.nus.edu |
 | Xia Xu           |           A0261818Y          | Implemented Intellectual Q&A game and implemented hand position analysis code, responsible for background removal algorithm and its result with OpenCV interface and construct Q&A SQL database and made visual based interactive game| e0983212@u.nus.edu    |
-| Tong Shingqing         |           A0231436M           | Write the report, proofread the report.Make a 5-min video such as commercial value, price, usedemo, etc. Complete the development of the fourth game, ready to train gestures to control the fourth game and embed it into our system.                                     | e0703468@u.nus.edu    |
+| Tong Shingqing         |           A0231436M           | Write the report, proofread the report.Make a 5-min video such as commercial value, price, usedemo, etc. These are the whole contribution she made, beside these, did nothing about coding   | e0703468@u.nus.edu    |
 
 ---
 
